@@ -1,0 +1,3 @@
+class OperatingSystemNotSupported : Exception(){
+    
+}
